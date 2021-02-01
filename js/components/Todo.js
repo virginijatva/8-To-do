@@ -18,6 +18,18 @@ export { Todo }
 
 
 
+// class Todo {
+//     constructor (name, color) {
+//         this.name = name;
+//         this.color = color;
+//     }
+
+//     greeting() {
+//         const text = `Hello, I am ${this.name} and my fur is ${this.color}.`;
+//         console.log(text);
+//     }
+
+// }
 
 
 /* klase: Suo

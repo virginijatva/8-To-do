@@ -15,3 +15,11 @@ console.log(namuDarbai);
 
 randomUzduotys.summary();
 namuDarbai.summary();
+
+
+
+// const suo1 = new Todo('Bobo', 'black');
+// const suo2 = new Todo('Berta', 'brown');
+
+// suo1.greeting();
+// suo2.greeting();
